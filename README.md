@@ -35,7 +35,7 @@
 
 ## 四、页面截图
 ### 1、小程序app页面
-![image](https://github.com/user-attachments/assets/80dbeb86-4384-481a-abdf-ece6c76a6857)![image](https://github.com/user-attachments/assets/551019a6-b809-4597-8f88-fa3e8e4b99b5)![image](https://github.com/user-attachments/assets/f14ac49a-491b-4e5d-ba80-0df78a503d6a)
+![image](https://github.com/user-attachments/assets/551019a6-b809-4597-8f88-fa3e8e4b99b5)![image](https://github.com/user-attachments/assets/80dbeb86-4384-481a-abdf-ece6c76a6857)![image](https://github.com/user-attachments/assets/f14ac49a-491b-4e5d-ba80-0df78a503d6a)
 
 
 
